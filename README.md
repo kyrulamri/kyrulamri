@@ -1,6 +1,6 @@
 - 👋 @kyrulamri
 - 👀 ops/code
-- 🌱 learning js/python
+- 🌱 learning js/rust/python
 - 💞️ looking around
 - 📫 dm me @kyrulamri
 
